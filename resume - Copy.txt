@@ -1,0 +1,3 @@
+name: Kate
+position: Admiral
+address: heart and soul of every american
